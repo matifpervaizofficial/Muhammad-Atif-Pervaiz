@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Muhammad Atif Pervaiz</h1>
+https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b6dd171a2b91847f7ae4d1d3b81382e4c4a393eb&rid=giphy.gif&ct=g<h1 align="center">Hi 👋, I'm Muhammad Atif Pervaiz</h1>
 <h3 align="center">I take great pride in my recognized process which emphasizes my core values of great communication, advanced creativity, deep knowledge and passionate interaction with my clients. As a keen developer, I am able to offer you a safe, secure an exceptional experience towards web developing, flutter app developing and digital marketing. If my offerings are what you are looking for, contact me to learn more!</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
