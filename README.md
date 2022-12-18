@@ -1,4 +1,4 @@
-Hi 👋, I'm Muhammad Atif Pervaiz</h1>
+<h1>Hi 👋, I'm Muhammad Atif Pervaiz</h1>
 <h3 align="justify">I take great pride in my recognized process which emphasizes my core values of great communication, advanced creativity, deep knowledge and passionate interaction with my clients. As a keen developer, I am able to offer you a safe, secure an exceptional experience towards web developing, flutter app developing and digital marketing. If my offerings are what you are looking for, contact me to learn more!</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
@@ -6,6 +6,10 @@ Hi 👋, I'm Muhammad Atif Pervaiz</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matifpervaizofficial" alt="matifpervaizofficial" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/matif2209" target="blank"><img src="https://img.shields.io/twitter/follow/matif2209?logo=twitter&style=for-the-badge" alt="matif2209" /></a> </p>
+<p align="left"> <a href="https://twitter.com/matifpervaizoffcial" target="blank"><img src="https://img.shields.io/instagram/follow/matif2209?logo=instagram&style=for-the-badge" alt="matifpervaizofficial" /></a> </p>
+<p align="left"> <a href="https://twitter.com/matif2209" target="blank"><img src="https://img.shields.io/twitter/follow/matif2209?logo=twitter&style=for-the-badge" alt="matif2209" /></a> </p>
+<p align="left"> <a href="https://twitter.com/matif2209" target="blank"><img src="https://img.shields.io/twitter/follow/matif2209?logo=twitter&style=for-the-badge" alt="matif2209" /></a> </p>
 <p align="left"> <a href="https://twitter.com/matif2209" target="blank"><img src="https://img.shields.io/twitter/follow/matif2209?logo=twitter&style=for-the-badge" alt="matif2209" /></a> </p>
 
 - 🔭 I’m currently working on **Exchange rate**
